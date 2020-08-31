@@ -1,0 +1,4 @@
+<div class="cognito">
+<script src="https://www.cognitoforms.com/s/s_47Hzb9fkyynEmjtEsdOQ"></script>
+<script>Cognito.load("forms", { id: "2" });</script>
+</div>
